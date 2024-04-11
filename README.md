@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hola!
+Mi nombre es Gonzalo Ezequiel Gerez. 
+Estudiante de la carrera de Ingenierìa en Sistemas de Información en la UTN.
+Trabajando en Espel S.A.I.C.A..
 
 <!--
 **gonzger/gonzger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
